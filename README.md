@@ -1,4 +1,4 @@
-# Foundation Lab 1: Login & Signup Example
+# CSS Showcase: Login & Signup Example
 
 This project is a simple login and signup site built using pure CSS.
 
